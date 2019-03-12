@@ -1,0 +1,400 @@
+{
+    "nodes": [
+        {
+            "group": 1, 
+            "id": "Elmar Eisemann"
+        }, 
+        {
+            "group": 1, 
+            "id": "Jorge Estrada"
+        }, 
+        {
+            "group": 1, 
+            "id": "Victor Guallar"
+        }, 
+        {
+            "group": 1, 
+            "id": "Pere-Pau V\u00e1zquez"
+        }, 
+        {
+            "group": 1, 
+            "id": "Pedro Hermosilla"
+        }, 
+        {
+            "group": 1, 
+            "id": "Noeska N. Smit"
+        }, 
+        {
+            "group": 1, 
+            "id": "Hessam Sokooti"
+        }, 
+        {
+            "group": 1, 
+            "id": "Soumya Dutta"
+        }, 
+        {
+            "group": 1, 
+            "id": "Stefan Bruckner"
+        }, 
+        {
+            "group": 1, 
+            "id": "Gregory Heinlein"
+        }, 
+        {
+            "group": 1, 
+            "id": "Alvar Vinacua"
+        }, 
+        {
+            "group": 1, 
+            "id": "Chun-Ming Chen"
+        }, 
+        {
+            "group": 1, 
+            "id": "Han-Wei Shen"
+        }, 
+        {
+            "group": 1, 
+            "id": "Jen-Ping Chen"
+        }, 
+        {
+            "group": 1, 
+            "id": "Marco DeRuiter"
+        }, 
+        {
+            "group": 1, 
+            "id": "Annelot Kraima"
+        }, 
+        {
+            "group": 1, 
+            "id": "Anna Vilanova"
+        }, 
+        {
+            "group": 1, 
+            "id": "Timo Ropinski"
+        }, 
+        {
+            "group": 1, 
+            "id": "Kai Lawonn"
+        }
+    ], 
+    "links": [
+        {
+            "source": "Alvar Vinacua", 
+            "target": "Pere-Pau V\u00e1zquez", 
+            "value": 1, 
+            "id": 1
+        }, 
+        {
+            "source": "Annelot Kraima", 
+            "target": "Anna Vilanova", 
+            "value": 1, 
+            "id": 2
+        }, 
+        {
+            "source": "Annelot Kraima", 
+            "target": "Elmar Eisemann", 
+            "value": 1, 
+            "id": 3
+        }, 
+        {
+            "source": "Annelot Kraima", 
+            "target": "Hessam Sokooti", 
+            "value": 1, 
+            "id": 4
+        }, 
+        {
+            "source": "Annelot Kraima", 
+            "target": "Marco DeRuiter", 
+            "value": 1, 
+            "id": 5
+        }, 
+        {
+            "source": "Annelot Kraima", 
+            "target": "Stefan Bruckner", 
+            "value": 1, 
+            "id": 6
+        }, 
+        {
+            "source": "Chun-Ming Chen", 
+            "target": "Gregory Heinlein", 
+            "value": 1, 
+            "id": 7
+        }, 
+        {
+            "source": "Chun-Ming Chen", 
+            "target": "Han-Wei Shen", 
+            "value": 1, 
+            "id": 8
+        }, 
+        {
+            "source": "Chun-Ming Chen", 
+            "target": "Jen-Ping Chen", 
+            "value": 1, 
+            "id": 9
+        }, 
+        {
+            "source": "Elmar Eisemann", 
+            "target": "Anna Vilanova", 
+            "value": 1, 
+            "id": 10
+        }, 
+        {
+            "source": "Gregory Heinlein", 
+            "target": "Han-Wei Shen", 
+            "value": 1, 
+            "id": 11
+        }, 
+        {
+            "source": "Gregory Heinlein", 
+            "target": "Jen-Ping Chen", 
+            "value": 1, 
+            "id": 12
+        }, 
+        {
+            "source": "Han-Wei Shen", 
+            "target": "Jen-Ping Chen", 
+            "value": 1, 
+            "id": 13
+        }, 
+        {
+            "source": "Hessam Sokooti", 
+            "target": "Anna Vilanova", 
+            "value": 1, 
+            "id": 14
+        }, 
+        {
+            "source": "Hessam Sokooti", 
+            "target": "Elmar Eisemann", 
+            "value": 1, 
+            "id": 15
+        }, 
+        {
+            "source": "Hessam Sokooti", 
+            "target": "Stefan Bruckner", 
+            "value": 1, 
+            "id": 16
+        }, 
+        {
+            "source": "Jorge Estrada", 
+            "target": "Alvar Vinacua", 
+            "value": 1, 
+            "id": 17
+        }, 
+        {
+            "source": "Jorge Estrada", 
+            "target": "Pere-Pau V\u00e1zquez", 
+            "value": 1, 
+            "id": 18
+        }, 
+        {
+            "source": "Jorge Estrada", 
+            "target": "Timo Ropinski", 
+            "value": 1, 
+            "id": 19
+        }, 
+        {
+            "source": "Jorge Estrada", 
+            "target": "Victor Guallar", 
+            "value": 1, 
+            "id": 20
+        }, 
+        {
+            "source": "Kai Lawonn", 
+            "target": "Anna Vilanova", 
+            "value": 1, 
+            "id": 21
+        }, 
+        {
+            "source": "Kai Lawonn", 
+            "target": "Annelot Kraima", 
+            "value": 1, 
+            "id": 22
+        }, 
+        {
+            "source": "Kai Lawonn", 
+            "target": "Elmar Eisemann", 
+            "value": 1, 
+            "id": 23
+        }, 
+        {
+            "source": "Kai Lawonn", 
+            "target": "Hessam Sokooti", 
+            "value": 1, 
+            "id": 24
+        }, 
+        {
+            "source": "Kai Lawonn", 
+            "target": "Marco DeRuiter", 
+            "value": 1, 
+            "id": 25
+        }, 
+        {
+            "source": "Kai Lawonn", 
+            "target": "Stefan Bruckner", 
+            "value": 1, 
+            "id": 26
+        }, 
+        {
+            "source": "Marco DeRuiter", 
+            "target": "Anna Vilanova", 
+            "value": 1, 
+            "id": 27
+        }, 
+        {
+            "source": "Marco DeRuiter", 
+            "target": "Elmar Eisemann", 
+            "value": 1, 
+            "id": 28
+        }, 
+        {
+            "source": "Marco DeRuiter", 
+            "target": "Hessam Sokooti", 
+            "value": 1, 
+            "id": 29
+        }, 
+        {
+            "source": "Marco DeRuiter", 
+            "target": "Stefan Bruckner", 
+            "value": 1, 
+            "id": 30
+        }, 
+        {
+            "source": "Noeska N. Smit", 
+            "target": "Anna Vilanova", 
+            "value": 1, 
+            "id": 31
+        }, 
+        {
+            "source": "Noeska N. Smit", 
+            "target": "Annelot Kraima", 
+            "value": 1, 
+            "id": 32
+        }, 
+        {
+            "source": "Noeska N. Smit", 
+            "target": "Elmar Eisemann", 
+            "value": 1, 
+            "id": 33
+        }, 
+        {
+            "source": "Noeska N. Smit", 
+            "target": "Hessam Sokooti", 
+            "value": 1, 
+            "id": 34
+        }, 
+        {
+            "source": "Noeska N. Smit", 
+            "target": "Kai Lawonn", 
+            "value": 1, 
+            "id": 35
+        }, 
+        {
+            "source": "Noeska N. Smit", 
+            "target": "Marco DeRuiter", 
+            "value": 1, 
+            "id": 36
+        }, 
+        {
+            "source": "Noeska N. Smit", 
+            "target": "Stefan Bruckner", 
+            "value": 1, 
+            "id": 37
+        }, 
+        {
+            "source": "Pedro Hermosilla", 
+            "target": "Alvar Vinacua", 
+            "value": 1, 
+            "id": 38
+        }, 
+        {
+            "source": "Pedro Hermosilla", 
+            "target": "Jorge Estrada", 
+            "value": 1, 
+            "id": 39
+        }, 
+        {
+            "source": "Pedro Hermosilla", 
+            "target": "Pere-Pau V\u00e1zquez", 
+            "value": 1, 
+            "id": 40
+        }, 
+        {
+            "source": "Pedro Hermosilla", 
+            "target": "Timo Ropinski", 
+            "value": 1, 
+            "id": 41
+        }, 
+        {
+            "source": "Pedro Hermosilla", 
+            "target": "Victor Guallar", 
+            "value": 1, 
+            "id": 42
+        }, 
+        {
+            "source": "Soumya Dutta", 
+            "target": "Chun-Ming Chen", 
+            "value": 1, 
+            "id": 43
+        }, 
+        {
+            "source": "Soumya Dutta", 
+            "target": "Gregory Heinlein", 
+            "value": 1, 
+            "id": 44
+        }, 
+        {
+            "source": "Soumya Dutta", 
+            "target": "Han-Wei Shen", 
+            "value": 1, 
+            "id": 45
+        }, 
+        {
+            "source": "Soumya Dutta", 
+            "target": "Jen-Ping Chen", 
+            "value": 1, 
+            "id": 46
+        }, 
+        {
+            "source": "Stefan Bruckner", 
+            "target": "Anna Vilanova", 
+            "value": 1, 
+            "id": 47
+        }, 
+        {
+            "source": "Stefan Bruckner", 
+            "target": "Elmar Eisemann", 
+            "value": 1, 
+            "id": 48
+        }, 
+        {
+            "source": "Timo Ropinski", 
+            "target": "Alvar Vinacua", 
+            "value": 1, 
+            "id": 49
+        }, 
+        {
+            "source": "Timo Ropinski", 
+            "target": "Pere-Pau V\u00e1zquez", 
+            "value": 1, 
+            "id": 50
+        }, 
+        {
+            "source": "Victor Guallar", 
+            "target": "Alvar Vinacua", 
+            "value": 1, 
+            "id": 51
+        }, 
+        {
+            "source": "Victor Guallar", 
+            "target": "Pere-Pau V\u00e1zquez", 
+            "value": 1, 
+            "id": 52
+        }, 
+        {
+            "source": "Victor Guallar", 
+            "target": "Timo Ropinski", 
+            "value": 1, 
+            "id": 53
+        }
+    ]
+}
